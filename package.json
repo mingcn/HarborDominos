@@ -1,6 +1,7 @@
 {
-	"dependencies": {
-		"dominos": "2.0.0",
-		"node-ir": "1.0.2"
-	}
+  "dependencies": {
+    "dominos": "2.0.0",
+    "express": "^4.13.4",
+    "node-ir": "1.0.2"
+  }
 }

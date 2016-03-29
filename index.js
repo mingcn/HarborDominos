@@ -77,3 +77,5 @@ ir.on('key', function(key) {
 	});
     }
 });
+
+exports.orderDominos = orderDominos;
